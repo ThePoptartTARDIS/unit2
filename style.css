@@ -3,7 +3,7 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #333;
+    background-color: midnightblue;
 }
 
 li {
@@ -18,7 +18,27 @@ li a {
     text-decoration: none;
 }
 
-/* Change the link color to #111 (black) on hover */
 li a:hover {
-    background-color: #111;
+    background-color: seagreen;
+}
+body {
+    background-color: slategray;
+}
+h1 {
+    color: black;
+}
+p {
+    color: black;
+}
+h2 {
+    color: black;
+}
+b {
+    color: black;
+}
+marked {
+    background-color:limegreen;
+}
+button {
+    background-color: limegreen;
 }
