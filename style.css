@@ -19,7 +19,7 @@ li a {
 }
 
 li a:hover {
-    background-color: seagreen;
+    background-color: blue;
 }
 body {
     background-color: white;
